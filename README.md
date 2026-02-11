@@ -8,8 +8,7 @@
 - 🛠️ I build **end-to-end web applications** (Frontend + Backend)
 - 🔍 Exploring the intersection of **ECE & Software**
 - 📫 Reach me at: sugashinimuthuselvan1967@gmail.com
-
-- 
+  
 ## 🔗 Connect with me:
 <a href="https://www.linkedin.com/in/sugashini-m-3545542b0">
   <img align="left" alt="LinkedIn" width="30px"
