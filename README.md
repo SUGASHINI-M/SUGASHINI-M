@@ -17,7 +17,6 @@
 
 <br><br>
 
----
 
 ## 🛠️ Languages and Tools:
 
@@ -34,21 +33,15 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
 </p>
 
----
-
 ## 📊 GitHub Stats:
 
-![Sugashini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SUGASHINI-M&show_icons=true&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SUGASHINI-M&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark)
-
----
 
 ## ✨ Random Dev Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
 
 <!--
 **SUGASHINI-M/SUGASHINI-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
