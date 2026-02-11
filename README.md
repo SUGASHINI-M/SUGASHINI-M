@@ -3,7 +3,7 @@
 ### ECE Undergraduate | Full Stack Web Developer 🚀
 
 - 🎓 I'm an **Electronics and Communication Engineering (ECE)** student
-- 💻 Strong interest in **Full Stack Web Development**#
+- 💻 Strong interest in **Full Stack Web Development**
 - 🌱 Currently learning **MERN Stack & Data Structures**
 - 🛠️ I build **end-to-end web applications** (Frontend + Backend)
 - 🔍 Exploring the intersection of **ECE & Software**
